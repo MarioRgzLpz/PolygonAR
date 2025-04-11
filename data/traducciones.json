@@ -1,0 +1,18 @@
+{
+    "English" : {
+        "login_message": " Login successful, welcome {username}.",
+        "register_prompt1": " Please say your username to register.",
+        "register_prompt2": " Registration successful. Welcome {username}",
+        "register_error": " Error registering name. Please try again.",
+        "mode_question": " What would you like to do? Detect polygon, draw or see gallery",
+        "mode_unsupported": " Mode not supported, please try again."
+    },    
+    "español": {
+        "login_message": " Inicio de sesión exitoso, bienvenido {username}.",
+        "register_prompt1": " Por favor, diga su nombre de usuario para registrarse.",
+        "register_prompt2": " Registro exitoso . Bienvenido {username}",
+        "register_error": " Error al registrar el nombre. Por favor, inténtelo de nuevo.",
+        "mode_question": " ¿Qué te gustaría hacer? Detectar poligono, pintar o ver galería",
+        "mode_unsupported": " Modo no soportado, por favor inténtelo de nuevo."
+    }
+}
